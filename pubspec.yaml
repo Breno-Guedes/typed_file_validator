@@ -1,9 +1,8 @@
 name: typed_file_validator
 description: Constant-memory magic-byte validation for JPEG, PNG, and PDF files.
 version: 0.1.0-beta.1
-repository: https://github.com/example/typed_file_validator
-issue_tracker: https://github.com/example/typed_file_validator/issues
-homepage: https://github.com/example/typed_file_validator
+repository: https://github.com/Breno-Guedes/typed_file_validator
+issue_tracker: https://github.com/Breno-Guedes/typed_file_validator/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
